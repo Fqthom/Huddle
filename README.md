@@ -18,7 +18,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 ## Overview
 
 ### The challenge
-
+---
 Users should be able to:
 
 - View the optimal layout for the page depending on their device's screen size
