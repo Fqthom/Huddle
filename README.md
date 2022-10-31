@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 ---
 - Solution URL: [Github](https://Github.com/Fqthom/Huddle)
-- Live Site URL: [Github Pages](https://Fqthom.Github.io/Huddle)
+- Live Site URL: [Github Pages](https://fqthom.github.io/Huddle)
 
 ## My process
 
